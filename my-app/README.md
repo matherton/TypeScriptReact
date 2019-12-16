@@ -1,3 +1,5 @@
+A demo App so that I can mess around with VS code, React and TypeScript.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

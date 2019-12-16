@@ -9,7 +9,9 @@ type AppProps = {
 type AppState = {
   count: number
 }
-
+/* 
+React.FC<P> where P is prop type
+React.Component<P, S> where P is prop types and S is state types */
 class App extends React.Component<AppProps, AppState>{
 
   state: AppState = {
