@@ -1,5 +1,8 @@
 A demo App so that I can mess around with VS code, React and TypeScript.
 
+TypeScript definions
+https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/react/index.d.ts#L396
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
